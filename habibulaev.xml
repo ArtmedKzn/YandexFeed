@@ -13,13 +13,13 @@
             <category id="1">Врач</category>
         </categories>
         <sets>
-            <set id="mt">
-                <name>Врач-хирург, флеболог высшей категории, врач-УЗИ</name>
+            <set id="flebolog">
+                <name>Флеболог</name>
                 <url>https://varikoz-artmed.ru/habibulaev</url>
             </set>
         </sets>
         <offers>
-            <offer id="vrach1" group_id="1"> 
+            <offer id="vrach1" group_id="101"> 
                 <name>Хабибулаев Тимур Ринатович</name>
                 <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
@@ -30,7 +30,7 @@
                 <oldprice>790</oldprice>
                 <!--Цена приема в клинике, должна быть не ниже price-->
                 <currencyId>RUR</currencyId>
-                <sales_notes>Консультация флеюолога</sales_notes>
+                <sales_notes>Консультация флеболога</sales_notes>
                 <set-ids>mt</set-ids>
                 <!--специальности через запятую-->
                 <picture>https://i.1.creatium.io/disk2/41/e4/23/4fc397fc4fb48f0c2581fa433886047dad/517x635q8/bazaart_2.png</picture>
