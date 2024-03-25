@@ -19,7 +19,7 @@
             </set>
         </sets>
         <offers>
-            <offer id="vrach1" group_id="101"> 
+            <offer id="vrach1" group_id="1">
                 <name>Хабибулаев Тимур Ринатович</name>
                 <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
