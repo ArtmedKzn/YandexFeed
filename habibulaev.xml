@@ -31,7 +31,7 @@
                 <!--Цена приема в клинике, должна быть не ниже price-->
                 <currencyId>RUR</currencyId>
                 <sales_notes>Консультация флеболога</sales_notes>
-                <set-ids>mt</set-ids>
+                <set-ids>flebolog</set-ids>
                 <!--специальности через запятую-->
                 <picture>https://i.1.creatium.io/disk2/41/e4/23/4fc397fc4fb48f0c2581fa433886047dad/517x635q8/bazaart_2.png</picture>
                 <description>Врач мануальный терапевт занимается диагностикой и устранением различных нарушений в организме за счет контактного воздействия на мышцы и суставы, связки и органы пациента.</description>
