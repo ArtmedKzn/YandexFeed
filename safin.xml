@@ -1,0 +1,95 @@
+<yml_catalog date="2024-02-18 12:10">
+    <shop>
+        <name>Врачи</name>
+        <company>Центр флебологии АртМед</company>
+        <url>https://varikoz-artmed.ru/</url>
+        <email>dd.artmedkzn@yandex.ru</email>
+        <picture>https://i.1.creatium.io/disk2/43/45/3a/829bd2534117e5b3e0973cea6669e72fd4/193x138q8/imgonline_com_ua_resize_aoan6oplkdojpf_transformed.png</picture>
+        <description>Каталог врачей</description>
+        <currencies>
+          <currency id="RUR" rate="1" />
+        </currencies>
+        <categories>
+            <category id="1">Врач</category>
+        </categories>
+        <sets>
+            <set id="flebolog">
+                <name>Флеболог</name>
+                <url>https://varikoz-artmed.ru/safin-ruslan-ilsurovich</url>
+            </set>
+        </sets>
+        <offers>
+            <offer id="vrach2" group_id="2">
+                <name>Сафин Руслан Илсурович</name>
+                <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url>https://varikoz-artmed.ru/safin-ruslan-ilsurovich</url>
+                <!--URL карточки врача. -->
+                <price from="true">790</price>
+                <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <oldprice>790</oldprice>
+                <!--Цена приема в клинике, должна быть не ниже price-->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Консультация флеболога</sales_notes>
+                <set-ids>flebolog</set-ids>
+                <!--специальности через запятую-->
+                <picture>https://i.1.creatium.io/disk2/41/e4/23/4fc397fc4fb48f0c2581fa433886047dad/517x635q8/bazaart_2.png</picture>
+                <description>Врач мануальный терапевт занимается диагностикой и устранением различных нарушений в организме за счет контактного воздействия на мышцы и суставы, связки и органы пациента.</description>
+                <categoryId>1</categoryId>
+                <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+                <param name="Фамилия">Сафин</param>
+                <param name="Имя">Руслан</param>
+                <param name="Отчество">Илсурович</param>
+                <param name="Годы опыта">11</param>
+                <param name="Начало карьеры">2013-01-01</param>
+                <!--Дата начала карьеры, для подсчета стажа-->
+                <param name="Город">г. Казань</param>
+                <param name="Взрослый врач">true</param>
+                <!--Принимает взрослых, от 18 лет-->
+                <param name="Детский врач">false</param>
+                <!--Принимает детей, до 18 лет-->
+                <param name="Категория">Вторая категория</param>
+                <param name="Ссылка на профиль врача">https://varikoz-artmed.ru/safin-ruslan-ilsurovich</param>
+                <param name="Город клиники">г. Казань</param>
+                <param name="Адрес клиники">ул. Академика Губкина, д. 37</param>
+                <param name="Название клиники">Центр флебологии АртМед</param>
+                <param name="Возможность записи">true</param>
+                <!--Возможность записаться на прием через сайт-поставщик фида-->
+                <param name="Онлайн-расписание">true</param>
+                <param name="Телефон для записи">+78435672375</param>
+                <!--Можно подменник аггрегатора-->
+                <param name="Образование - 1" unit="Организация">Казанский государственный медицинский университет.</param>
+                <param name="Образование - 1" unit="Дата">2003-2009</param>
+                <param name="Образование - 1" unit="Название">Базовое образование</param>
+                <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+                <param name="Образование - 2" unit="Организация">Казанский государственный медицинский университет</param>
+                <param name="Образование - 2" unit="Дата">2009-2010</param>
+                <param name="Образование - 2" unit="Название">Интернатура</param>
+                <param name="Образование - 2" unit="Специальность">Хирургия</param>
+                <param name="Образование - 3" unit="Организация">Казанский государственный медицинский университет</param>
+                <param name="Образование - 3" unit="Дата">2010 – 2012</param>
+                <param name="Образование - 3" unit="Название">Ординатура</param>
+                <param name="Образование - 3" unit="Специальность">Ренгенология</param>
+                <param name="Образование - 4" unit="Организация">Казанский государственный медицинский университет</param>
+                <param name="Образование - 4" unit="Дата">2018</param>
+                <param name="Образование - 4" unit="Название">Аспирантура</param>
+                <param name="Образование - 4" unit="Специальность">Организация здравоохранения и общественное здоровье</param>
+                <param name="Место работы - 1" unit="Организация">ГАУЗ ГКБ 7</param>
+                <param name="Место работы - 1" unit="Дата">2013-2018</param>
+                <param name="Место работы - 1" unit="Специальность">Врач-хирург, рентгенолог</param>
+                <param name="Место работы - 2" unit="Организация">Медицинский центр «АртМед»</param>
+                <param name="Место работы - 2" unit="Дата">2015-н.в.</param>
+                <param name="Место работы - 2" unit="Специальность">Заместитель директора, врач-хирург, флеболог</param>
+                <param name="Место работы - 3" unit="Организация">ООО «Харакят», пгт. Б. Сабы</param>
+                <param name="Место работы - 3" unit="Дата">2017-2019</param>
+                <param name="Место работы - 3" unit="Специальность">Главный врач</param>
+                <param name="Место работы - 4" unit="Организация">МРТ центр «Аир Мед»</param>
+                <param name="Место работы - 4" unit="Дата">2018-н.в.</param>
+                <param name="Место работы - 4" unit="Специальность">Главный врач, врач-рентгенолог</param>
+                <param name="Сертификат - 1" unit="Организация">Центр флебологии клинической больницы Российской академии наук, г. Санкт-Петербург</param>
+                <param name="Сертификат - 1" unit="Дата">2020</param>
+                <param name="Сертификат - 1" unit="Название">Эндовенозная лазерная облитерация и минифлебэктомия</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
