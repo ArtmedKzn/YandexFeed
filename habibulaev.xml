@@ -1,7 +1,7 @@
 <yml_catalog date="2024-02-18 12:10">
     <shop>
         <name>Врачи</name>
-        <company>АртМед</company>
+        <company>Центр флебологии АртМед</company>
         <url>https://varikoz-artmed.ru/</url>
         <email>dd.artmedkzn@yandex.ru</email>
         <picture>https://i.1.creatium.io/disk2/43/45/3a/829bd2534117e5b3e0973cea6669e72fd4/193x138q8/imgonline_com_ua_resize_aoan6oplkdojpf_transformed.png</picture>
@@ -52,7 +52,7 @@
                 <param name="Ссылка на профиль врача">https://varikoz-artmed.ru/habibulaev</param>
                 <param name="Город клиники">г. Казань</param>
                 <param name="Адрес клиники">ул. Академика Губкина, д. 37</param>
-                <param name="Название клиники">АртМед</param>
+                <param name="Название клиники">Центр флебологии АртМед</param>
                 <param name="Возможность записи">true</param>
                 <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
