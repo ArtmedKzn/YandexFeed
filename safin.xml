@@ -33,7 +33,7 @@
                 <sales_notes>Консультация флеболога</sales_notes>
                 <set-ids>flebolog</set-ids>
                 <!--специальности через запятую-->
-                <picture>https://i.1.creatium.io/disk2/41/e4/23/4fc397fc4fb48f0c2581fa433886047dad/517x635q8/bazaart_2.png</picture>
+                <picture>https://i.1.creatium.io/disk2/fd/06/2a/ce026559557675e47591c1f220dd8322f3/195x243q8/safinn_2.webp</picture>
                 <description>Врач мануальный терапевт занимается диагностикой и устранением различных нарушений в организме за счет контактного воздействия на мышцы и суставы, связки и органы пациента.</description>
                 <categoryId>1</categoryId>
                 <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
